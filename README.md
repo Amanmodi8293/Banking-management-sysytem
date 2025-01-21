@@ -2,7 +2,7 @@
 
 Overview
 The Banking Management System is a Java-based application that provides essential banking functionalities. Built using Java and JDBC (Java Database Connectivity), this project demonstrates how to manage banking operations such as account creation, transactions, and statement generation in a structured and efficient manner.
-
+![Image](https://github.com/user-attachments/assets/8e9df68b-0418-428c-84ef-248ed0974694)
 
 
  Features
