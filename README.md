@@ -1,10 +1,9 @@
 # Banking-management-sysytem
 
- Overview
-
+Overview
 The Banking Management System is a Java-based application that provides essential banking functionalities. Built using Java and JDBC (Java Database Connectivity), this project demonstrates how to manage banking operations such as account creation, transactions, and statement generation in a structured and efficient manner.
 
----
+
 
  Features
 
@@ -36,7 +35,7 @@ The system includes the following core features:
    - Check Balance: View the current balance of your account.
    - Logout: Securely log out of the system.
 
----
+
 
  Technologies Used
 
@@ -45,7 +44,7 @@ The system includes the following core features:
 - Database: MySQL
 - IDE: Any Java-supported IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
 
----
+
 
  Prerequisites
 
@@ -66,37 +65,37 @@ The system includes the following core features:
 
    - Import the project into your preferred IDE.
 
----
+
 
  Installation and Setup
 
 1. Clone the Repository
 
-   ```bash
+   
    git clone https://github.com/your-repo/banking-management-system.git
-   ```
+  
 
 2. Database Configuration
 
    - Update the `db.properties` file with your database connection details:
-     ```properties
+     
      db.url=jdbc:mysql://localhost:3306/banking_system
      db.user=root
      db.password=password
-     ```
+     
 
 3. Build and Run the Application
 
    - Compile the project using your IDE or the command line:
-     ```bash
+  
      javac -cp .:path-to-jdbc-driver.jar *.java
-     ```
+     
    - Run the application:
-     ```bash
+     
      java -cp .:path-to-jdbc-driver.jar MainClass
-     ```
+   
 
----
+
 
  Usage
 
@@ -120,9 +119,8 @@ The system includes the following core features:
 
 ---
 
- Folder Structure
+Folder Structure
 
-```
 project-root
 ├── src/                # Source code
 │   └── BankingApp.java (Main class)
@@ -132,9 +130,7 @@ project-root
 ├── docs/               # Documentation
 │   └── schema.sql    # Database schema
 └── README.md           # Project README
-```
 
----
 
  Future Enhancements
 
@@ -142,19 +138,18 @@ project-root
 - Enhanced security features such as encryption for sensitive data.
 - Support for multiple currencies and international transactions.
 
----
+
 
  Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
----
+
 
  License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
 
  Contact
 
