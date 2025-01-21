@@ -125,7 +125,7 @@ The system includes the following core features:
 ```
 project-root
 ├── src/                # Source code
-│   └── MainClass.java
+│   └── Bankingapp.java
 │   └── ... (other classes)
 ├── resources/          # Resources
 │   └── db.properties  # Database configuration
