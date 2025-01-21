@@ -162,5 +162,4 @@ For any questions or feedback, feel free to contact:
 
 - Name: Aman chourasiya
 - Email: robbinsmith42@gmail.com
-- GitHub: [https://github.com/your-profile](https://github.com/your-profile)
-
+- GitHub:https://github.com/Amanmodi8293
